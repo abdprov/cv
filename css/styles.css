@@ -4,6 +4,9 @@ body {
 
 h1 {
   color: #66BFBF;
+  font-family: "American Typewriter";
+  font-weight: 800;
+  padding: 10px;
 }
 h3 {
   color: #66BFBF;
@@ -17,6 +20,12 @@ hr {
   width: 5%;
 }
 
-p.ex1 {
-  margin: 35px;
+
+p {
+  font-family: "American Typewriter", Times, serif;
+  margin: 0;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 200;
 }
+
