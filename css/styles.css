@@ -1,17 +1,19 @@
+
+
 body {
   background-color: #EAF6F6;
-    font-family: "American Typewriter";
+   font-family: 'Montserrat';
 }
 
 h1 {
   color: #66BFBF;
-  font-family: "American Typewriter";
+  font-family: 'Montserrat';
   font-weight: 800;
   padding: 10px;
 }
 h3 {
   color: #66BFBF;
-    font-family: "American Typewriter";
+    font-family: 'Montserrat';
 }
 
 hr {
@@ -20,12 +22,12 @@ hr {
   border-color: white;
   border-width: 5px;
   width: 5%;
-    font-family: "American Typewriter";
+  font-family: 'Montserrat';
 }
 
 
 p {
-  font-family: "American Typewriter", Times, serif;
+ font-family: 'Montserrat';
   margin: 0;
   padding: 20px;
   font-size: 20px;
