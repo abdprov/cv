@@ -13,13 +13,13 @@ h1 {
   color: #66BFBF;
   font-family: 'Montserrat';
   font-weight: 800;
-  text-shadow: 2px 2px 9px #000000;
+text-shadow: 2px 2px 20px rgba(125,143,255,0.43);
 
 }
 h3 {
   color: #66BFBF;
     font-family: 'Montserrat';
-  text-shadow: 2px 2px 9px #000000;
+text-shadow: 2px 2px 20px rgba(125,143,255,0.43);
 }
 
 hr {
